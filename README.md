@@ -15,6 +15,7 @@ Hemos seleccionado **GitFlow** porque nos permite mantener un control estricto s
 ### 2. Mensajes de Commit
 
 Utilizamos Convencional Commits:
+
 * `feat: añade nueva funcionalidad`
 * `fix: corrige un error`
 * `docs: actualizaciones en documentación`
