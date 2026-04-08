@@ -1,6 +1,6 @@
 Licencia MIT
 
-Copyright (c) [año] [nombre completo]
+Copyright (c) 2026 Yonathan Machado
 
 Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia.
 de este software y los archivos de documentación asociados (el "Software"), para tratar
